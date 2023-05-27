@@ -7,7 +7,7 @@ The main goal of this research project is to detection and analysis of "Cryptomi
 
 - [Introduction](#introduction)
 - [Methodology](#Methodology)
-- [Architectural Diagram](#Architectural diagram)
+- [Architectural Diagram](#Architectural Diagram)
 - [Datasets](#dataset)
 - [Installation](#installation)
 - [Approach](#approach)
@@ -23,7 +23,7 @@ The main objective of this project is to build a detection system capable of ide
 ![meth](https://github.com/AmritaCSN/Securing-Computing-Environments-against-Cryptojacking-Attack-Rohan_Sharma/assets/26691240/9204beb9-eb8a-4a0b-85fc-62842839b891)
 
 
-## Architectural Diagram of ML model
+## Architectural Diagram
 
 ![Cryptojacking_ML_Model_Architectural_Block_diagram](https://github.com/AmritaCSN/Securing-Computing-Environments-against-Cryptojacking-Attack-Rohan_Sharma/assets/26691240/8f120327-eb52-4171-ba74-bcff3a118e01)
 
