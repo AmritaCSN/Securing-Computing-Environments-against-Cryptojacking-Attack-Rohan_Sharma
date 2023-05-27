@@ -45,10 +45,10 @@ Note: The datasets should be in the same directory.
 
 Our approach to detecting cryptomining malware involves leveraging machine learning algorithms and employing multiple datasets for enhanced validation. The key steps in our approach include:
 
-1. Preprocessing: We preprocess the datasets to extract relevant features and transform the data into a suitable format for machine learning algorithms.
-2.Then we’ll choose the models on which we will train.
-3. Check for the best performing model amongst all the models.
-4.Best performing model, performance metric has to be analysed and on that basis we will select the best performing model.
+1. We preprocess the datasets to extract relevant features and transform the data into a suitable format for machine learning algorithms.
+2. Then we’ll choose the models on which we will train.
+3. Check for the best-performing model amongst all the models.
+4. Best performing models, performance metric has to be analyzed and on that basis we will select the best performing model.
 3. Then at the end we’ll be combining both the models from different datasets and get the more validated prediction.  
 
 ## Results
