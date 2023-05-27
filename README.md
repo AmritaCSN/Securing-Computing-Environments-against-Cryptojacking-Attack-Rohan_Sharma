@@ -6,8 +6,8 @@ The main goal of this research project is to detection and analysis of "Cryptomi
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Methodology] (#Methodology)
-- [Architectural Diagram] (#Architectural diagram)
+- [Methodology](#Methodology)
+- [Architectural Diagram](#Architectural diagram)
 - [Datasets](#dataset)
 - [Installation](#installation)
 - [Approach](#approach)
